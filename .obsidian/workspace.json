@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "5e6aafc472c69179",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ff7f796a712b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62acdc85bc05bb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-Infrastructure/Kubernetes/Kubernetes-Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes-Services"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f164f1700f2ec023",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f1b97ba90a6b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e98e8684661fde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c06baed044fd827",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da171d3fe456f514",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e36592f2540466f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "39e9ff8ac8b15cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc944d99b9e077be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50-Infrastructure/Kubernetes/Kubernetes-Services.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kubernetes-Services"
+            }
+          },
+          {
+            "id": "3dfff23cb1d69325",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "40-Frameworks/NestJS/NestJS-Integrations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NestJS-Integrations"
+            }
+          },
+          {
+            "id": "d461907271e26e7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3532098a6fd8e8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33d1204a1dfd116c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40-Frameworks/NestJS/NestJS-Integrations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NestJS-Integrations"
+            }
+          },
+          {
+            "id": "6720d62cd8ebad3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "50-Infrastructure/Kubernetes/Kubernetes-Services.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Kubernetes-Services"
+            }
+          },
+          {
+            "id": "e8f8b7f7a5775d67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "62acdc85bc05bb9b",
+  "lastOpenFiles": [
+    "50-Infrastructure/Kubernetes/Kubernetes-Deployments.md",
+    "50-Infrastructure/Kubernetes/Kubernetes-Cheatsheet.md",
+    "50-Infrastructure/Kubernetes/Helm-Charts.md",
+    "75-Performance/Error-Handling/Error-Handling-Patterns.md",
+    "75-Performance/Caching/Caching-Patterns.md",
+    "70-Security/Hardening/Security-Hardening.md",
+    "40-Frameworks/Laravel/Laravel-Integration.md",
+    "65-Testing/Patterns/Contract-Testing.md",
+    "70-Security/Auth/OAuth2-Flows.md",
+    "70-Security/Auth/Auth-Patterns.md",
+    "65-Testing/Patterns/Mocking-Patterns.md",
+    "70-Security/00-MOC/00-MOC-Security.md",
+    "65-Testing/E2E/E2E-Testing-Playwright.md",
+    "65-Testing/Integration/Integration-Testing.md",
+    "65-Testing/Patterns/Testing-Patterns.md",
+    "50-Infrastructure/Kubernetes/Kubernetes-Services.md",
+    "65-Testing/Unit/Unit-Testing-Jest.md",
+    "40-Frameworks/Next.js/NextJS-App-Router.md",
+    "80-Databases/SQL/PostgreSQL-Cheatsheet.md",
+    "30-Languages/Rust/00-Rust-MOC.md",
+    "30-Languages/PHP/00-PHP-MOC.md",
+    "30-Languages/Go/00-Go-MOC.md",
+    "30-Languages/Rust/03-Systems",
+    "30-Languages/Rust/02-Advanced",
+    "30-Languages/Rust/01-Basics",
+    "30-Languages/PHP/03-Laravel",
+    "30-Languages/PHP/02-Advanced",
+    "30-Languages/PHP/01-Basics",
+    "30-Languages/Go/03-Concurrency",
+    "30-Languages/Go/02-Advanced",
+    "30-Languages/Go/01-Basics",
+    "80-Databases/SQL/MySQL-Cheatsheet.md",
+    "75-Performance/Database-Optimization.md",
+    "60-CICD/00-MOC/CI-CD-Pipeline.md",
+    "55-MessageBrokers/Message-Brokers.md",
+    "40-Frameworks/NestJS/05-Advanced"
+  ]
+}
